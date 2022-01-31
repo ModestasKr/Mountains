@@ -1,0 +1,22 @@
+let data = [
+    {
+        "title": "Mount Elbrus is the highest mountain in Russia and also the highest mountain in Europe",
+        "src": "IMG/mountain1.jpg"
+    },
+    {
+        "title": "Dykh-Tau is the second highest mountain in Russia",
+        "src": "IMG/mountain2.jpg"
+    },
+    {
+        "title": "Koshtan Tau is the most beautiful and difficult to access mountain peaks located in the Central Caucasus",
+        "src": "IMG/mountain3.jpg"
+    },
+    {
+        "title": "Pushkin Peak is the fourth highest mountain in Russia",
+        "src": "IMG/mountain4.jpg"
+    },
+    {
+        "title": "Mount Dzangi Tau is the fifth highest mountain in Russia",
+        "src": "IMG/mountain5.jpg"
+    }
+]
